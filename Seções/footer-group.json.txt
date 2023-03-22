@@ -1,0 +1,55 @@
+{
+  "name": "t:sections.footer.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "ee69bccb-4f03-4820-af3b-12a91c01d67e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/Pl.jpg",
+            "image_width": 185,
+            "alignment": "center"
+          }
+        },
+        "b093b327-9f66-44d5-948c-22d596615e92": {
+          "type": "text",
+          "settings": {
+            "heading": "Atendimento",
+            "subtext": "<p>Para entrar em contato conosco, envie-nos uma mensagem para o seguinte endereço de email:<\/p><p><\/p><p><strong>atendimento.prrecolite@gmail.com<\/strong><\/p><p><\/p><p>Desde já, agradecemos a sua preferência!<\/p>"
+          }
+        },
+        "d4698cf3-9020-4fa8-9f3f-96e6ccd83405": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Menu",
+            "menu": "footer"
+          }
+        }
+      },
+      "block_order": [
+        "ee69bccb-4f03-4820-af3b-12a91c01d67e",
+        "b093b327-9f66-44d5-948c-22d596615e92",
+        "d4698cf3-9020-4fa8-9f3f-96e6ccd83405"
+      ],
+      "settings": {
+        "color_scheme": "accent-1",
+        "newsletter_enable": false,
+        "newsletter_heading": "Preço Lite",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "payment_enable": true,
+        "show_policy": false,
+        "margin_top": 0,
+        "padding_top": 52,
+        "padding_bottom": 48
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}
